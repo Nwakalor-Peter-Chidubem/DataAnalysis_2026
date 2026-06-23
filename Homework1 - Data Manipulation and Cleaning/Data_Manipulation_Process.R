@@ -2,7 +2,7 @@
 # Get current working directory
 getwd()
 # create path relative to project root
-data_path <- "~/Documents/learning/masters/second semester/Data analysis/DataSet_No_Details.csv"
+data_path <- "~/Documents/Masters/Data analysis/DataSet_No_Details.csv"
 #----------------read dataset--------------------------
 df <- read.csv(data_path)
 # Display structure with variable types
