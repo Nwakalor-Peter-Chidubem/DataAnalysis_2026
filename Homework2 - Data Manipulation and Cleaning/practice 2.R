@@ -2,9 +2,9 @@
 # Get current working directory
 getwd()
 #----------------read dataset--------------------------
-example_df<-read.csv("~/Documents/learning/masters/second semester/Data analysis/Practice2/distribution.csv", header = TRUE,dec = ',', sep = ";")
-factor_df <- read.csv("~/Documents/learning/masters/second semester/Data analysis/Practice2/factor_data.csv")
-imputed_df <- read.csv("~/Documents/learning/masters/second semester/Data analysis/Practice2/imputed_data.csv")
+example_df<-read.csv("~/Documents/Masters/Data analysis/Practice2/distribution.csv", header = TRUE,dec = ',', sep = ";")
+factor_df <- read.csv("~/Documents/Masters/Data analysis/Data analysis/Practice2/factor_data.csv")
+imputed_df <- read.csv("~/Documents/Masters/Data analysis/Practice2/imputed_data.csv")
 # Display structure with variable types
 str(example_df)
 str(factor_df)
