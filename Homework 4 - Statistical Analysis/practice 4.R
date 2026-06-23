@@ -4,7 +4,7 @@ getwd()
 #----------------read dataset--------------------------
 install.packages("wPerm")
 library(wPerm)
-data <- read.csv("~/Documents/learning/masters/second semester/Data analysis/practice4/data_for_analysis.csv")
+data <- read.csv("~/Documents/Masters/Data analysis/practice4/data_for_analysis.csv")
 data$outcome <- as.factor(data$outcome)
 summary(data)
 # testing for normality of distribution
