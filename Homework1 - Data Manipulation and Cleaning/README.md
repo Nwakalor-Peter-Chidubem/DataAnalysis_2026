@@ -16,7 +16,7 @@ Missing values were present across several variables and were addressed through 
 
 ## 3. Software Environment
 
-* **IDE:** RStudio (Mac)
+* **IDE:** RStudio (Windows)
 * **R Version:** 4.5.3
 
 **Packages Used:** dplyr, tidyr, ggplot2, skimr, visdat, naniar, mice, and dbscan.
