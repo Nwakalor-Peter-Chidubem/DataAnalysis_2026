@@ -13,7 +13,7 @@ The outcome variable indicates tumour status:
 
 ## 3. Software Environment
 
-* **IDE:** RStudio (Mac)
+* **IDE:** RStudio (Windows)
 * **R Version:** 4.5.3
 
 **Packages Used:**
