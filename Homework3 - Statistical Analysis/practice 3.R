@@ -2,7 +2,7 @@
 # Get current working directory
 getwd()
 #----------------read dataset--------------------------
-data_for_analysis<-read.csv("~/Documents/learning/masters/second semester/Data analysis/practice3/data_for_analysis.csv")
+data_for_analysis<-read.csv("~/Documents/Masters/Data analysis/practice3/data_for_analysis.csv")
 
 #-----------descriptive statistics------------------
 summary(data_for_analysis)
